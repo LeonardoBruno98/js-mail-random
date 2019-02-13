@@ -14,5 +14,5 @@ if (primo>secondo) {
 } else if (secondo>primo) {
   alert("Il vincitore è " + giocatore2 );
 } else {
-  alert("Purtroppo c'è stato un pareggio!");
+  alert("Pareggio!");
 }
